@@ -31,7 +31,7 @@
     vertical-align: text-top;
   }
   @media #{$brk-mobile}{
-    font-size:4vw;
+    font-size:5vw;
     vertical-align: text-top;
   }
 }
@@ -58,7 +58,21 @@
 
 .fa-facebook-square {
   color: #ffffff;
-  margin-right: 15px;
+  @media  #{$brk-fixed} {
+    top: calc( #{$cell-fixed} / 3);
+    margin-right: 15px;
+  }
+  @media #{$brk-fluid} {
+    top: calc( #{$cell-fluid} / 4);
+    margin-right: 15px;
+  }
+  @media #{$brk-mobile}  {
+    top: calc( #{$cell-mobile} / 3);
+    margin-right: 5px;
+  }
+
+
+
 }
 
 a {
@@ -75,7 +89,7 @@ a:hover {
   font-family: 'Arial', sans-serif;
   position: absolute;
   left: 0;
-  font-weight: 900;
+  font-weight: 800;
   @media  #{$brk-fixed} {
     top: calc( #{$cell-fixed} / 3);
     font-size: 1.6rem;

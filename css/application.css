@@ -537,7 +537,7 @@ html {
     vertical-align: text-top; } }
 @media (max-width: 699px) {
   .social-icons {
-    font-size: 4vw;
+    font-size: 5vw;
     vertical-align: text-top; } }
 
 .fa-twitter,
@@ -561,8 +561,19 @@ html {
   color: #ffffff; }
 
 .fa-facebook-square {
-  color: #ffffff;
-  margin-right: 15px; }
+  color: #ffffff; }
+  @media (min-width: 1408px) {
+    .fa-facebook-square {
+      top: calc( 128px / 3);
+      margin-right: 15px; } }
+  @media (max-width: 1407px) {
+    .fa-facebook-square {
+      top: calc( 9.0909090909vw / 4);
+      margin-right: 15px; } }
+  @media (max-width: 699px) {
+    .fa-facebook-square {
+      top: calc( 10.6382978723vw / 3);
+      margin-right: 5px; } }
 
 a {
   color: white;
@@ -575,7 +586,7 @@ a:hover {
   font-family: 'Arial', sans-serif;
   position: absolute;
   left: 0;
-  font-weight: 900; }
+  font-weight: 800; }
   @media (min-width: 1408px) {
     .lang-en a {
       top: calc( 128px / 3);
