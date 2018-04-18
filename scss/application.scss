@@ -127,19 +127,21 @@ img {
 
 h1 {
   font-weight: 800;
-  vertical-align: top;
-  line-height: 1.4;
-
   @media  #{$brk-fixed} {
     font-size:106px;
+    line-height: 1.8;
+
   }
 
   @media #{$brk-fluid}  {
     @include px2vw("font-size", 106px);
+    line-height: 1.8;
+
   }
 
   @media #{$brk-mobile}  {
     font-size: 8.5vw;
+    line-height: 1.3;
   }
 }
 
