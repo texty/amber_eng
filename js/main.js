@@ -12,7 +12,7 @@ setUpFigure("#figure1", {
     hullString: "0,0 2,0 2,2 0,2 0,0",
     image: 'selected/500/51.604684999999996_27.162096999999996_05_Oct_2015_GMT.jpg',
     imageOffsetPc: {x: 0.60, y: 0.70},
-    tooltipText: "Рівненська область Рокитнівський район, Старе село"
+    tooltipText: "Rivne region Rokytne district, Stare selo"
 });
 
 setUpFigure("#figure2", {
@@ -21,7 +21,7 @@ setUpFigure("#figure2", {
     hullString: "0,0 3,0 3,1 2,1 2,2 1,2 1,1 0,1 0,0",
     image: 'selected/500/51.325369_26.900646999999996_05_Oct_2015_GMT.jpg',
     imageOffsetPc: {x: 0.41, y: 0.47},
-    tooltipText: "Рівненська область Сарненський район, Клесів"
+    tooltipText: "Rivne region Sarny district, Klesiv"
 });
 
 setUpFigure("#figure3", {
@@ -30,7 +30,7 @@ setUpFigure("#figure3", {
     hullString: "0,0 1,0 1,2 2,2 2,3 0,3 0,0",
     image: 'selected/500/51.564878_26.512397999999997_09_Mar_2015_GMT.jpg',
     imageOffsetPc: {x: 0.53, y: 0.47},
-    tooltipText: "Рівненська область Дубровицький район, Крупове"
+    tooltipText: "Rivne region Dubrovytsia district, Krupove"
 });
 
 setUpFigure("#figure4", {
@@ -39,7 +39,7 @@ setUpFigure("#figure4", {
     hullString: "0,0 1,0 1,3 0,3 0,0",
     image: 'selected/500/51.496603_26.354936_09_Mar_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Дубровицький район, Осова"
+    tooltipText: "Rivne region Dubrovytsia district, Osova"
 });
 
 setUpFigure("#figure5", {
@@ -48,7 +48,7 @@ setUpFigure("#figure5", {
     hullString: "0,0 1,0 1,1 2,1 2,2 1,2 1,3 0,3 0,0",
     image: 'selected/500/51.582387_27.104335_05_Oct_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Рокитнівський район, Вежиця"
+    tooltipText: "Rivne region Rokytne district, Vezhytsia"
 });
 
 setUpFigure("#figure6", {
@@ -57,7 +57,7 @@ setUpFigure("#figure6", {
     hullString: "0,0 1,0 1,1 0,1 0,0",
     image: 'selected/500/51.639019_27.130822_05_Oct_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Рокитнівський район, Старе село"
+    tooltipText: "Rivne region Rokytne district, Stare selo"
 });
 
 setUpFigure("#figure7", {
@@ -66,7 +66,7 @@ setUpFigure("#figure7", {
     hullString: "0,0 3,0 3,1 0,1 0,0",
     image: 'selected/500/51.5682122_26.512397999999997_09_Mar_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Дубровицький район, Крупове"
+    tooltipText: "Rivne region Dubrovytsia district, Krupove"
 });
 
 setUpFigure("#figure8", {
@@ -75,7 +75,7 @@ setUpFigure("#figure8", {
     hullString: "2,0 2,3 1,3 1,2 0,2 0,1 1,1, 1,0 2,0",
     image: 'selected/500/51.588868_27.153431_05_Oct_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Рокитнівський район, Старе село"
+    tooltipText: "Rivne region Rokytne district, Stare selo"
 });
 
 setUpFigure("#figure9", {
@@ -84,7 +84,7 @@ setUpFigure("#figure9", {
     hullString: "2,0 2,2 0,2 0,1 1,1 1,0 2,0",
     image: 'selected/500/51.573971199999995_27.129568000000003_05_Oct_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Рокитнівський район, Вежиця"
+    tooltipText: "Rivne region Rokytne district, Vezhytsia"
 });
 
 setUpFigure("#figure10", {
@@ -93,7 +93,7 @@ setUpFigure("#figure10", {
     hullString: "0,0 1,0 1,1 3,1 3,2 0,2 0,0",
     image: 'selected/500/51.3361602_26.558144000000002_09_Mar_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Сарненський район, Доротичі"
+    tooltipText: "Rivne region Sarny district, Dorotychi"
 });
 
 setUpFigure("#figure11", {
@@ -102,7 +102,7 @@ setUpFigure("#figure11", {
     hullString: "2,0 2,2 0,2 0,1 1,1 1,0 2,0",
     image: 'selected/500/51.580773199999996_26.500263_09_Mar_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Дубровицький район, Мочулище"
+    tooltipText: "Rivne region Dubrovytsia district, Mochulyshche"
 });
 
 
@@ -116,7 +116,7 @@ setUpFigure("#figureM1", {
     hullString: "0,0 3,0 3,3 0,3 0,0",
     image: 'selected/500/51.604684999999996_27.162096999999996_05_Oct_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Рокитнівський район, Старе село"
+    tooltipText: "Rivne region Rokytne district, Stare selo"
 });
 
 setUpFigure("#figureM2", {
@@ -125,7 +125,7 @@ setUpFigure("#figureM2", {
     hullString: "0,0 2,0 2,2 0,2 0,0",
     image: 'selected/500/51.580773199999996_26.500263_09_Mar_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Дубровицький район, Мочулище"
+    tooltipText: "Rivne region Dubrovytsia district, Mochulyshche"
 });
 
 setUpFigure("#figureM3", {
@@ -134,7 +134,7 @@ setUpFigure("#figureM3", {
     hullString: "0,0 2,0 2,2 0,2 0,0",
     image: 'selected/500/51.325369_26.900646999999996_05_Oct_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Сарненський район, Клесів"
+    tooltipText: "Rivne region Sarny district, Klesiv"
 });
 
 setUpFigure("#figureM4", {
@@ -143,7 +143,7 @@ setUpFigure("#figureM4", {
     hullString: "0,0 2,0 2,2 0,2 0,0",
     image: 'selected/500/51.564878_26.512397999999997_09_Mar_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Дубровицький район, Крупове"
+    tooltipText: "Rivne region Dubrovytsia district, Krupove"
 });
 
 setUpFigure("#figureM5", {
@@ -152,7 +152,7 @@ setUpFigure("#figureM5", {
     hullString: "0,0 2,0 2,2 0,2 0,0",
     image: 'selected/500/51.496603_26.354936_09_Mar_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Дубровицький район, Осова"
+    tooltipText: "Rivne region Dubrovytsia district, Osova"
 });
 
 setUpFigure("#figureM6", {
@@ -161,7 +161,7 @@ setUpFigure("#figureM6", {
     hullString: "0,0 2,0 2,2 0,2 0,0",
     image: 'selected/500/51.582387_27.104335_05_Oct_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Рокитнівський район, Вежиця"
+    tooltipText: "Rivne region Rokytne district, Vezhytsia"
 });
 
 setUpFigure("#figureM7", {
@@ -170,7 +170,7 @@ setUpFigure("#figureM7", {
     hullString: "0,0 2,0 2,2 0,2 0,0",
     image: 'selected/500/51.639019_27.130822_05_Oct_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Рокитнівський район, Старе село"
+    tooltipText: "Rivne region Rokytne district, Stare selo"
 });
 
 setUpFigure("#figureM8", {
@@ -179,7 +179,7 @@ setUpFigure("#figureM8", {
     hullString: "0,0 2,0 2,2 0,2 0,0",
     image: 'selected/500/51.5682122_26.512397999999997_09_Mar_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Дубровицький район, Крупове"
+    tooltipText: "Rivne region Dubrovytsia district, Krupove"
 });
 
 setUpFigure("#figureM9", {
@@ -188,7 +188,7 @@ setUpFigure("#figureM9", {
     hullString: "0,0 2,0 2,2 0,2 0,0",
     image: 'selected/500/51.588868_27.153431_05_Oct_2015_GMT.jpg',
     imageOffsetPc: {x: 0.3, y: 0.4},
-    tooltipText: "Рівненська область Рокитнівський район, Старе село"
+    tooltipText: "Rivne region Rokytne district, Stare selo"
 });
 
 
