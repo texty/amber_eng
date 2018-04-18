@@ -727,15 +727,15 @@ h1 {
   @media (min-width: 1408px) {
     h1 {
       font-size: 106px;
-      line-height: 1.8; } }
+      line-height: 1.7; } }
   @media (max-width: 1407px) {
     h1 {
       font-size: 7.5284090909vw;
-      line-height: 1.8; } }
+      line-height: 1.7; } }
   @media (max-width: 699px) {
     h1 {
       font-size: 8.5vw;
-      line-height: 1.8; } }
+      line-height: 1.7; } }
 
 h3 {
   text-transform: uppercase;
