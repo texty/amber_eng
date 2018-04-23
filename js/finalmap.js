@@ -38,7 +38,7 @@ function finalmap() {
                     }).addTo(map);
 
                     // map.setView([51.081851400000005, 27.3154423], 8, true);
-                    map.fitBounds([[50.25022980000001,25.4251606],[51.913472999999996,29.205724]]);
+					map.fitBounds([[51.0428, 25.8618], [51.7726, 28.0893]]);
 
                     // Squares9: 6 -- 10
                     var squares9_layer = L.geoJSON(squares9, {
