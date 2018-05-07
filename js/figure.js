@@ -47,7 +47,7 @@ function figure() {
                 .classed("transparent", function(d) {return !d})
                 .style("width", inpercents(1/figureSize.x))
                 .style("padding-bottom", inpercents(1/figureSize.x))
-                .attr("title", "Клікніть щоб дивитись карту");
+                .attr("title", "Click to view on map");
 
             container
                 .selectAll(".elementary-block.transparent")
