@@ -18,8 +18,8 @@ function map() {
         , format = d3.format(".4f")
         ;
 
-    var BING_KEY = '7iwrppbVdz0lGpikbqd8~xJvG4G_xd7HrgqwcYlBIbA~AtniWbKOD5OuqxuBx-IIWRSI3SNjKx82lcX-YWJlfgKKSdxl_rgRtSdONbogryBN';
-
+    //var BING_KEY = '7iwrppbVdz0lGpikbqd8~xJvG4G_xd7HrgqwcYlBIbA~AtniWbKOD5OuqxuBx-IIWRSI3SNjKx82lcX-YWJlfgKKSdxl_rgRtSdONbogryBN';
+    var BING_KEY = 'AiaA9RuCWyZ21VY8oYEvdxFmCqRhhhg9CyWXi_VoKzyVf5yD1bq2S_4ow74DxhoX'
 
     function my(selection) {
 
